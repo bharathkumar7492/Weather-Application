@@ -1,70 +1,72 @@
 # 🌤️ Weather API Desktop App (Python + PyQt5)
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 A desktop weather application built using Python and PyQt5 that fetches real-time weather data for any city using the OpenWeatherMap API. The app displays temperature, conditions, and weather icons with a clean graphical interface.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🚀 Features
+## 🚀 Features
 
-Real-time weather data using OpenWeatherMap API
+- Real-time weather data using OpenWeatherMap API
 
-Displays temperature in Celsius & Fahrenheit
+- Displays temperature in Celsius & Fahrenheit
 
-Dynamic weather emoji based on conditions
+- Dynamic weather emoji based on conditions
 
-Clean GUI built with PyQt5
+- Clean GUI built with PyQt5
 
-Strong exception handling for API & network errors
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#🛠️ Tech Stack
-
-Python
-
-PyQt5
-
-Requests API
-
-OpenWeatherMap API
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#▶️ How to Run
-pip install PyQt5 requests
-python weather_app.py
+- Strong exception handling for API & network errors
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#🔑 API Setup
+## 🛠️ Tech Stack
 
-Replace this line with your API key:
+- Python
 
-api_key = "YOUR_API_KEY"
+- PyQt5
 
+- Requests API
 
-Get free key from: https://openweathermap.org/api
+- OpenWeatherMap API
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ▶️ How to Run
+
+` pip install PyQt5 requests `
+
+` python weather_app.py `
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#💡 Highlights
+## 🔑 API Setup
 
-Converts Kelvin → Celsius & Fahrenheit automatically
+`Replace this line with your API key:`
 
-Handles invalid city, network errors, and API failures
+`api_key = "YOUR_API_KEY"`
 
-Interactive UI with styled labels and buttons
+
+`Get free key from: https://openweathermap.org/api`
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#📌 Author
+## 💡 Highlights
+
+- Converts Kelvin → Celsius & Fahrenheit automatically
+
+- Handles invalid city, network errors, and API failures
+
+- Interactive UI with styled labels and buttons
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📌 Author
 
 BharathKumar Ravi
 
